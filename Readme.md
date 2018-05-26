@@ -1,5 +1,6 @@
 # FB chat data analysis
-A Jupyter notebook with exploratory analysis of my Facebook Messenger chat data (and the scripts for extracting the data)
+A Jupyter notebook with exploratory analysis of my Facebook Messenger chat data (and the scripts for extracting the data). 
+
 I have also created two chatbots to imitate me based on this data, which can be found [here](https://github.com/andreasvija/chatbots-of-me). 
 #### Running
 The personal chat data of me and others has not been included for obvious reasons. A modified view of my analysis can be found in ```chat_analysis_edited.html```, which is also hosted [here.](http://kodu.ut.ee/~andreasv/Chat_analysis_edited.html)
